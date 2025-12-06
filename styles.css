@@ -1,0 +1,20 @@
+.navigation-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: flex; /* Added for horizontal layout */
+    justify-content: space-around; /* Added for spacing */
+    font-size: 16px; /* Added for font size */
+    color: white; /* Added for text color */
+    padding: 10px; /* Added for padding */
+    background-color: #9E79E9; /* Added for background color */
+    transition: background-color 0.3s; /* Added for smooth background transition */
+}
+
+.Photo {
+    text-align: center;
+    margin-top: 20px;
+    line-height: 1.6;
+}
