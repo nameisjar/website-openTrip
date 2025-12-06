@@ -9,7 +9,12 @@
     font-size: 16px; /* Added for font size */
     color: white; /* Added for text color */
     padding: 10px; /* Added for padding */
-    border-radius: 5px; /* Added for rounded corners */
-    background-color: #444; /* Added for background color */
+    background-color: #9E79E9; /* Added for background color */
     transition: background-color 0.3s; /* Added for smooth background transition */
+}
+
+.Photo {
+    text-align: center;
+    margin-top: 20px;
+    line-height: 1.6;
 }
